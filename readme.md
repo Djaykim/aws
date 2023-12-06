@@ -1,5 +1,5 @@
 # AWS
-> 해당 프로젝트에서는 AWS 에서 사용한 lambda function 을 기술
+> 해당 프로젝트에서는 AWS 에서 사용한 기술들을 요약
 
 ## ECS
 > Stage Cluster 의 경우 주말동안 사용하지 않도록 python boto3 를 이용하여 작성 후 Eventbridge 를 통해 스케쥴링
